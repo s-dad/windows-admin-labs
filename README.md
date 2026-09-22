@@ -5,7 +5,7 @@ as part of ITEC 350 at Franklin University. Each unit covers a core
 sysadmin skill set including AWS EC2 provisioning, Active Directory,
 Group Policy, IIS, PowerShell automation, and AWS load balancing.
 
-## Skills I Learned 
+## What I Learned 
 - Windows Server 2019 configuration on AWS EC2
 - Active Directory — users, groups, OUs, domain controllers
 - DNS and Group Policy management
